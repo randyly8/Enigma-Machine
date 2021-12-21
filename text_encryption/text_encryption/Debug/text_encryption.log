@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\RaNdY\Documents\Study\C++\text_encryption\text_encryption\text_encryption\main.cpp(68): warning C4715: 'WindowProc': not all control paths return a value
+  text_encryption.vcxproj -> C:\Users\RaNdY\Documents\Study\C++\text_encryption\text_encryption\Debug\text_encryption.exe
